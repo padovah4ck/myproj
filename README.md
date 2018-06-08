@@ -1,1 +1,1 @@
-# myproj
+# projects stuff and various
