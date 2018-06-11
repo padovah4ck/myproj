@@ -1,1 +1,1 @@
-# projects stuff and various
+# projects stuff and various things
